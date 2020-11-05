@@ -10,20 +10,21 @@
 
 ## Links Úteis
 
-- [Livros Gratuitos em inglês](https://books.goalkicker.com/)
-- [Site para aprender Javascript](https://javascript.info/)
+- [JavaScript.info](https://javascript.info/)
 - [Standards Javascript](https://standardjs.com/rules.html)
-- [Ideias para praticar](https://github.com/florinpop17/app-ideas)
-- [Algoritmos Javascript](https://github.com/trekhleb/javascript-algorithms)
+- [App Ideas](https://github.com/florinpop17/app-ideas)
+- [Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Typescript handbook](https://jorgedacostaza.gitbook.io/typescript-pt/project/compilation-context/tsconfig)
 
-## ECMAScript <img src="https://github.com/laiananardi/100daysofcode/blob/master/img_readme/js.png"  height="30"/> 
--<a href="https://www.notion.so/Java-Script-057ddbd40c61438391845690c66ca5fc" target="_blank">My notes</a>
-- [x] Variables and data type
-- [x] <a href="https://www.notion.so/Curso-em-video-JavaScript-762c7cd4ca7c4e18b2563c1d48bf0d0e" target="_blank">A evolução do JavaScript e do EcmaScript</a>
+## ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
+- [x] 
+- [x] 
 
+## TypeScript <img src="https://img.icons8.com/color/144/000000/typescript.png" width="30"/>
+- [x] 
+- [x] 
 
-
-## React Native <img src="https://github.com/laiananardi/100daysofcode/blob/master/img_readme/reactnative.png" alt="React Native"  height="30"/> 
+## React <img src="https://img.icons8.com/nolan/128/react-native.png" width="30"/>
 
 - [ ] React
    - [ ] Hooks
@@ -38,7 +39,7 @@
       - [ ] useLayoutEffect
       - [ ] useDebugValue
 
-## Node.Js <img src="https://github.com/laiananardi/100daysofcode/blob/master/img_readme/nodejs.png" alt="Node.Js"  height="30"/> 
+## Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
 **instalção**: https://nodejs.org/en/ <br>
 
