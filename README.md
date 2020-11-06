@@ -15,6 +15,7 @@
 - [App Ideas](https://github.com/florinpop17/app-ideas)
 - [Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Typescript handbook](https://jorgedacostaza.gitbook.io/typescript-pt/project/compilation-context/tsconfig)
+- [React Resources](https://reactresources.com/)
 
 ## ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
 - [x] 
