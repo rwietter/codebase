@@ -35,7 +35,7 @@
       - [ ] useReducer
       - [ ] useCallback
       - [ ] useMemo
-      - [ ] useRef
+      - [x] useRef
       - [ ] useImperativeHandle
       - [ ] useLayoutEffect
       - [ ] useDebugValue
