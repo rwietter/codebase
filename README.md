@@ -39,6 +39,7 @@
       - [ ] useImperativeHandle
       - [ ] useLayoutEffect
       - [ ] useDebugValue
+   - [x] Error Boundary
 
 ## Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
