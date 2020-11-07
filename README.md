@@ -126,7 +126,9 @@
 
 **CodeWars** [https://www.codewars.com/dashboard]
 
-- []()
+- [Duplicate Encode](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/duplicata.js)
+- [Friends](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/likeFacebook.js)
+- [Square](https://github.com/rwietter/100DaysOfCode/blob/2d72c5d3dc2285abc2996c27011fd95957f79fa0/algorithms/codewars/perfectSquare.js#L1)
 
 
 <hr>
