@@ -5,8 +5,8 @@
 
 
 
-## 🎯 Objetivos do desafio: 
-- Desenvolver projetos e estudar todos os dias React, ECMAScript e TypeScript !
+## <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="30"/> Objetivos do desafio: 
+- Desenvolver projetos e estudar todos os dias programação com a stack ECMAScript, Typescript, Nodejs, PostgreSQL, React e React Native !
 - Início 07 de Novembro de 2020 <hr>
 
 
@@ -92,7 +92,7 @@
 
 ### Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
-**Documentação**: https://nodejs.org/dist/latest-v14.x/docs/api/ <br>
+**Documentação**: [https://nodejs.org/dist/latest-v14.x/docs/api/] <br>
 
 - [ ] Node.js
    - [ ] HTTP
@@ -113,7 +113,7 @@
 
 ### Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/>
  
-**Atlassian** https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing
+**Atlassian** [https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing]
 
 - [ ] Git rebasing
 - [ ] Git Blame
@@ -124,7 +124,7 @@
 
 ### Algorithms
 
-**CodeWars** https://www.codewars.com/dashboard
+**CodeWars** [https://www.codewars.com/dashboard]
 
 - []()
 
