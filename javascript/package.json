@@ -1,0 +1,46 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.1",
+    "@babel/plugin-proposal-optional-chaining": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "babel": "^6.23.0",
+    "babel-preset-es2020": "^1.0.2",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-docs": "^0.4.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.10.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "jest": "^26.0.1",
+    "jest-cli": "^26.0.1",
+    "nodemon": "^2.0.4",
+    "prettier": "2.0.5",
+    "prettier-plugin-organize-imports": "^1.0.4",
+    "remove": "^0.1.5",
+    "stylelint": "^13.4.1",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "wallaby": {
+    "autoDetect": true,
+    "slowTestThreshold": 200
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
