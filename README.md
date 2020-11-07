@@ -43,11 +43,7 @@
 
 ## Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
-**instalção**: https://nodejs.org/en/ <br>
-
 **Documentação**: https://nodejs.org/dist/latest-v14.x/docs/api/ <br>
-
-**Notion (Em desenvolvimento)**: 
 
 - [ ] Node.js
    - [ ] HTTP
@@ -55,33 +51,30 @@
    - [ ] Module System
       - [ ] Common JS (require/exports)
       - [ ] os
-      - [ ] setInterval (global)
+      - [ ] setInterval
       - [ ] events
       - [ ] fs
       - [ ] path
       - [ ] http
       - [ ] url
       
- ## Git e GitHub <img align="center" src="https://github.com/laiananardi/100daysofcode/blob/master/img_readme/github.webp" alt="git e github" height="30"/> 
+ ## Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/> 
  
+ Links úteis
+ 
+ - [Atlassian](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
+ 
+ <br/>
+
+- [ ] Git rebasing
 - [ ] Git Blame
 
 
 
  <h1 align="center">
-   💻 Study and Projects for day
+   💻 Progress
 </h1> 
 
 |Day        | Learning          |
 | --------  | ----------------- |
 | 1 |       |                   |
-| 2 |       |                   |
-| 3 |       |                   |
-| 4 |       |                   |
-| 5 |       |                   |
-| 6 |       |                   |
-| 7 |       |                   |
-| 8 |       |                   |
-| 9 |       |                   |
-| 10 |      |                   |
-
