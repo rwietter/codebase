@@ -12,7 +12,7 @@
 
 
 
-## Links Úteis
+### Links Úteis
 
 - [JavaScript.info](https://javascript.info/)
 - [Standards Javascript](https://standardjs.com/rules.html)
@@ -20,13 +20,13 @@
 - [Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Typescript handbook](https://jorgedacostaza.gitbook.io/typescript-pt/project/compilation-context/tsconfig)
 - [React Resources](https://reactresources.com/)
-- [Atlassian](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 - [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es2016plus/)
 
 
+<hr>
 
 
-## ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
+### ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
 
 **Anotações** [https://rwietter.gitbook.io/fpjs/]
 
@@ -61,12 +61,16 @@
 - [ ] <a href="#">Map</a>
 
 
-
-## TypeScript <img src="https://img.icons8.com/color/144/000000/typescript.png" width="30"/>
-
+<hr>
 
 
-## React <img src="https://img.icons8.com/nolan/128/react-native.png" width="30"/>
+### TypeScript <img src="https://img.icons8.com/color/144/000000/typescript.png" width="30"/>
+
+
+<hr>
+
+
+### React <img src="https://img.icons8.com/nolan/128/react-native.png" width="30"/>
 
 - [ ] React
    - [ ] Hooks
@@ -83,8 +87,10 @@
    - [x] Error Boundary
 
 
+<hr>
 
-## Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
+
+### Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
 **Documentação**: https://nodejs.org/dist/latest-v14.x/docs/api/ <br>
 
@@ -100,25 +106,30 @@
       - [ ] path
       - [ ] http
       - [ ] url
+
  
+<hr>
+
+
+### Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/>
  
- 
- ## Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/>
- 
- <br/>
+**Atlassian** https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing
 
 - [ ] Git rebasing
 - [ ] Git Blame
 
 
+<hr>
 
-## Algorithms
+
+### Algorithms
 
 **CodeWars** https://www.codewars.com/dashboard
 
 - []()
 
 
+<hr>
 
 
  <h1 align="center">
