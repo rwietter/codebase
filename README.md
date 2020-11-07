@@ -6,7 +6,7 @@
 ## 🎯 Objetivos do desafio: 
 - Desenvolver projetos e estudar todos os dias React, ECMAScript e TypeScript !
 - Contato:  **mauricio.witter@acad.ufsm.br** <br>
-- Início 09 de Novembro de 2020 <hr>
+- Início 07 de Novembro de 2020 <hr>
 
 ## Links Úteis
 
@@ -16,14 +16,45 @@
 - [Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Typescript handbook](https://jorgedacostaza.gitbook.io/typescript-pt/project/compilation-context/tsconfig)
 - [React Resources](https://reactresources.com/)
+- [Atlassian](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
+- [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es2016plus/)
 
 ## ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
-- [x] 
-- [x] 
+
+**Anotações** [https://rwietter.gitbook.io/fpjs/]
+
+<br/>
+
+- [ ] JavaScript Functional Programming
+  - [ ] Pure Functions
+  - [ ] First-class Functions
+  - [ ] Higher Order Functions
+  - [ ] State
+  - [ ] Referential Transparency
+  - [ ] Closures
+  - [ ] Partial Application
+  - [ ] Currying
+  - [ ] Composition
+  - [ ] PointFree
+  - [ ] Lazy Evaluation
+  - [ ] Lambda
+  - [ ] Pipe
+  - [ ] Memoization
+  - [ ] Mappable
+  - [ ] Functors
+  - [ ] Monads
+  - [ ] Isomorfismo
+  - [ ] homomorfismo
+  - [ ] Morphism
+  - [ ] Catamorphism
+  - [ ] Applicative Functors
+- [ ] <a href="https://flaviocopes.com/javascript-async-defer/">Efficiently load JavaScript with defer and async</a>
+- [ ] <a href="https://flaviocopes.com/cors/">CORS</a>
+- [ ] <a href="#">Set</a>
+- [ ] <a href="#">Map</a>
 
 ## TypeScript <img src="https://img.icons8.com/color/144/000000/typescript.png" width="30"/>
-- [x] 
-- [x] 
+
 
 ## React <img src="https://img.icons8.com/nolan/128/react-native.png" width="30"/>
 
@@ -34,7 +65,7 @@
       - [x] useContext
       - [ ] useReducer
       - [ ] useCallback
-      - [ ] useMemo
+      - [x] useMemo
       - [x] useRef
       - [ ] useImperativeHandle
       - [ ] useLayoutEffect
@@ -58,11 +89,7 @@
       - [ ] http
       - [ ] url
       
- ## Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/> 
- 
- Links úteis
- 
- - [Atlassian](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
+ ## Git <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="30"/>
  
  <br/>
 
