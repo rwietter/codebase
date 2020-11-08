@@ -13,6 +13,7 @@ Studying programming every day !
 
 ### Links Úteis
 
+- [Materials to learn software development](https://gist.github.com/rwietter/5eea2f70f6f8461039061ad3d9efe075)
 - [JavaScript.info](https://javascript.info/)
 - [Standards Javascript](https://standardjs.com/rules.html)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
@@ -123,11 +124,13 @@ Studying programming every day !
 
 ### Algorithms
 
-**CodeWars** [https://www.codewars.com/dashboard]
+**CodeWars** [https://github.com/rwietter/100DaysOfCode/tree/main/algorithms/codewars]
 
 - [Duplicate Encode](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/duplicata.js)
 - [Friends](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/likeFacebook.js)
 - [Square](https://github.com/rwietter/100DaysOfCode/blob/2d72c5d3dc2285abc2996c27011fd95957f79fa0/algorithms/codewars/perfectSquare.js#L1)
+- [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
+- [Square](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 
 
 <hr>
