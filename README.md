@@ -131,6 +131,7 @@ Studying programming every day !
 - [Square](https://github.com/rwietter/100DaysOfCode/blob/2d72c5d3dc2285abc2996c27011fd95957f79fa0/algorithms/codewars/perfectSquare.js#L1)
 - [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 - [Square](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
+- [Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript)
 
 
 <hr>
