@@ -5,10 +5,11 @@
 
 
 
-## <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="30"/> Objetivos do desafio: 
-- Studying programming every day !
+### <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="25"/> Objetivos do desafio:  
 
+Studying programming every day !
 
+<br/><hr/><br/>
 
 ### Links Úteis
 
