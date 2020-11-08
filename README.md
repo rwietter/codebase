@@ -6,9 +6,7 @@
 
 
 ## <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="30"/> Objetivos do desafio: 
-- Desenvolver projetos e estudar todos os dias programação com a stack ECMAScript, Typescript, Nodejs, PostgreSQL, React e React Native !
-- Início 07 de Novembro de 2020 <hr>
-
+- Studying programming every day !
 
 
 
@@ -28,7 +26,7 @@
 
 ### ECMAScript <img src="https://img.icons8.com/color/144/000000/javascript.png" width="30"/>
 
-**Anotações** [https://rwietter.gitbook.io/fpjs/]
+**Notes** [https://rwietter.gitbook.io/fpjs/]
 
 <br/>
 
@@ -78,12 +76,12 @@
       - [x] useEffect
       - [x] useContext
       - [ ] useReducer
-      - [ ] useCallback
+      - [x] useCallback
       - [x] useMemo
       - [x] useRef
       - [ ] useImperativeHandle
-      - [ ] useLayoutEffect
-      - [ ] useDebugValue
+      - [x] useLayoutEffect
+      - [x] useDebugValue
    - [x] Error Boundary
 
 
@@ -92,7 +90,7 @@
 
 ### Node.Js <img src="https://img.icons8.com/color/144/000000/nodejs.png" width="30"/>
 
-**Documentação**: [https://nodejs.org/dist/latest-v14.x/docs/api/] <br>
+**Documentation**: [https://nodejs.org/dist/latest-v14.x/docs/api/] <br>
 
 - [ ] Node.js
    - [ ] HTTP
@@ -138,6 +136,6 @@
    💻 Progress
 </h1> 
 
-|Day        | Learning          |
-| --------  | ----------------- |
-| 1 |       |                   |
+|Day                                           | Learning                                                            |
+| -------------------------------------------- | ------------------------------------------------------------------- |
+| 1  React Hooks                               | useCallback, useMemo, useDebugValue and useRef                      |
