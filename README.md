@@ -132,6 +132,10 @@ Studying programming every day !
 - [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 - [Square](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 - [Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript)
+- [Array Plus Array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/javascript)
+- [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/javascript)
+- [Filling an array](https://www.codewars.com/kata/571d42206414b103dc0006a1/javascript)
+- [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/javascript)
 
 
 <hr>
@@ -144,3 +148,4 @@ Studying programming every day !
 |Day                                           | Learning                                                            |
 | -------------------------------------------- | ------------------------------------------------------------------- |
 | 1  React Hooks                               | useCallback, useMemo, useDebugValue and useRef                      |
+| 2  Solve algorithms                          | Gravity Flip, Square, Set Alarm and Array Plus Array                |
