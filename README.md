@@ -11,9 +11,10 @@ Studying programming every day !
 
 <br/><hr/><br/>
 
-### Links Úteis
+### Useful Links
 
 - [Materials to learn software development](https://gist.github.com/rwietter/5eea2f70f6f8461039061ad3d9efe075)
+- [CSS Tricks - Almanac](https://css-tricks.com/almanac/)
 - [JavaScript.info](https://javascript.info/)
 - [Standards Javascript](https://standardjs.com/rules.html)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
@@ -21,6 +22,9 @@ Studying programming every day !
 - [Typescript handbook](https://jorgedacostaza.gitbook.io/typescript-pt/project/compilation-context/tsconfig)
 - [React Resources](https://reactresources.com/)
 - [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es2016plus/)
+- [Mobile First Indexing](https://developers.google.com/search/mobile-sites/mobile-first-indexing)
+- [Operator Lookup](https://joshwcomeau.com/operator-lookup/)
+- [Wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README-pt-br.md)
 
 
 <hr>
@@ -126,16 +130,18 @@ Studying programming every day !
 
 **CodeWars** [https://github.com/rwietter/100DaysOfCode/tree/main/algorithms/codewars]
 
-- [Duplicate Encode](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/duplicata.js)
-- [Friends](https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/likeFacebook.js)
-- [Square](https://github.com/rwietter/100DaysOfCode/blob/2d72c5d3dc2285abc2996c27011fd95957f79fa0/algorithms/codewars/perfectSquare.js#L1)
-- [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
-- [Square](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
-- [Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript)
-- [Array Plus Array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/javascript)
-- [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/javascript)
-- [Filling an array](https://www.codewars.com/kata/571d42206414b103dc0006a1/javascript)
-- [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/javascript)
+<a href="https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/duplicata.js">Duplicate Encode</a> <br />
+<a href="https://github.com/rwietter/100DaysOfCode/blob/main/algorithms/codewars/likeFacebook.js">Friends</a> <br />
+<a href="https://github.com/rwietter/100DaysOfCode/blob/2d72c5d3dc2285abc2996c27011fd95957f79fa0/algorithms/codewars/perfectSquare.js#L1">Square</a> <br />
+<a href="https://www.codewars.com/kata/5f70c883e10f9e0001c89673">Gravity Flip</a> <br />
+<a href="https://www.codewars.com/kata/5f70c883e10f9e0001c89673">Square</a> <br />
+<a href="https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript">Set Alarm</a> <br />
+<a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/javascript">Array Plus Array</a> <br />
+<a href="https://www.codewars.com/kata/55a70521798b14d4750000a4/javascript">Returning Strings</a> <br />
+<a href="https://www.codewars.com/kata/571d42206414b103dc0006a1/javascript">Filling an array</a> <br />
+<a href="https://www.codewars.com/kata/57d814e4950d8489720008db/javascript">N-th Power</a> <br />
+<a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/javascript">Beginner Series #2 Clock</a> <br />
+<a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/javascript">String ends With</a> <br />
 
 
 <hr>
@@ -149,3 +155,4 @@ Studying programming every day !
 | -------------------------------------------- | ------------------------------------------------------------------- |
 | 1  React Hooks                               | useCallback, useMemo, useDebugValue and useRef                      |
 | 2  Solve algorithms                          | Gravity Flip, Square, Set Alarm and Array Plus Array                |
+| 3  Solve algorithms                          | Gravity Flip, Square, Set Alarm and Array Plus Array                |
