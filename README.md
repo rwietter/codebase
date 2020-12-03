@@ -1,13 +1,13 @@
 
 <h1 align="center">
-   🚀 #100DaysOfCode
+   🚀 #My Code Base
 </h1>
 
 
 
-### <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="25"/> Objetivos do desafio:  
+### <img src="https://img.icons8.com/cotton/64/000000/labyrinth.png" width="25"/> Objective:  
 
-Studying programming every day !
+Learning programming every day !
 
 <br/><hr/><br/>
 
