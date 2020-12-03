@@ -6,6 +6,7 @@
     "dev": "nodemon ./dist/types/interface"
   },
   "dependencies": {
+    "ts-node-dev": "^1.0.0",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
