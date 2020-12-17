@@ -14,6 +14,7 @@ Learning programming every day !
 ### Useful Links
 
 - [Materials to learn software development](https://gist.github.com/rwietter/5eea2f70f6f8461039061ad3d9efe075)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [CSS Tricks - Almanac](https://css-tricks.com/almanac/)
 - [JavaScript.info](https://javascript.info/)
 - [Standards Javascript](https://standardjs.com/rules.html)
