@@ -38,3 +38,5 @@
 <hr/><br/>
 
 <strong><a href="shared-nothing">Shared-nothing architecture</strong>
+
+<img src="./assets/shared-nothing-comparison.jpg" width="500">
