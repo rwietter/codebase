@@ -18,6 +18,7 @@
 - [Algorithms & Data Structures](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/algorithms.html)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/branch-and-bound/binary-search)
 - [Sorting Animations](http://sorting.at/#)
+- [Sorting Visualizer](https://karimelghamry.github.io/sorting-visualizer/)
 - [Toptal sorting animations](https://www.toptal.com/developers/sorting-algorithms)
 - [DSAnim](http://cathyatseneca.github.io/DSAnim/web/insertion.html)
 - [Programiz](https://www.programiz.com/dsa/shell-sort)
